@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tungnguyen1907 
-tungnguyen1907
-/
-kubernetes-full-stack-example
-Public
-forked from nirajsonawane/kubernetes-full-stack-example
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-kubernetes-full-stack-example/helmchart/ipallow.yaml
-@tungnguyen1907
-tungnguyen1907 Update ipallow.yaml
-Latest commit ed9e3be 2 hours ago
- History
- 1 contributor
-91 lines (74 sloc)  2.03 KB
+
 
 # Name allows overriding the release name. Generally this should not be set
 name: ""
@@ -118,18 +91,3 @@ affinity: {}
 networkGateway: ""
 
 imagePullSecrets: []
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
